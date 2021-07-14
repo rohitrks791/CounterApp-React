@@ -69,3 +69,9 @@ body {
     top: 58vh;
     left: 45vw;
 }
+.bottomright {
+      position: absolute;
+      bottom: 8px;
+      right: 16px;
+      font-size: 15px;           
+}

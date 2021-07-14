@@ -16,6 +16,9 @@ const App=()=>{
                 <button id="reset" onClick={()=>{setScore(0)}}> Reset </button>
                 </div>
             </div>
+            <div className="bottomright">
+            <a href="https://linkedin.com/in/w0lfrm" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" alt="rohitrks791" height="20" width="20" /></a>
+        rohitrks791</div>
         </div>
     )
 }
